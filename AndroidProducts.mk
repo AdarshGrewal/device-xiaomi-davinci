@@ -15,9 +15,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/revengeos_davinci.mk
+    $(LOCAL_DIR)/octavi_davinci.mk
 
 COMMON_LUNCH_CHOICES := \
-    revengeos_davinci-user \
-    revengeos_davinci-userdebug \
-    revengeos_davinci-eng
+    octavi_davinci-user \
+    octavi_davinci-userdebug \
+    octavi_davinci-eng
